@@ -1,7 +1,6 @@
 """
 Task:
 - Building a recurrent neural network that generates texts like Shakespeare's texts
-- Watch the videos on neural networks by 'NeuralNine' to understand what is happening better
 """
 
 import random
